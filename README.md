@@ -2,7 +2,7 @@
 Simple image embed code you can use in your Rainmeter projects.
 
 # Requirements
-* [**Rainmeter**] (https://www.rainmeter.net/) - You can run versions 4.3.1 and higher.
+[**Rainmeter**] (https://www.rainmeter.net/) - You can run versions 4.3.1 and higher.
 
 # Settings
 You can add the image from this area.
